@@ -1,5 +1,4 @@
 # Twitch Getting Started with Chatbots & IRC
-=================
 
 ## Chatbot Overview
 
